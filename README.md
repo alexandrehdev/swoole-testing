@@ -1,7 +1,9 @@
 # swoole-testing
 
-Install swoole 
+<h2>Install Swoole</h2> 
 
-wget http://pear.php.net/go-pear.phar
-sudo php go-pear.phar
+<ul>
+  <li>wget http://pear.php.net/go-pear.phar</li>
+  <li>sudo php go-pear.phar</li>
+</ul>
 
